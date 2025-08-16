@@ -1,3 +1,4 @@
+#Função com multiplos parâmetros
 def calcula_tempo(via, carros):
     if carros > 10:
         return f"{via}: 30 segundos de verde"

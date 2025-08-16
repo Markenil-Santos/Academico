@@ -1,3 +1,4 @@
+#Função simples
 def tempo_verde(carros):
     if carros > 10:
         return 30

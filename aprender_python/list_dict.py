@@ -1,3 +1,4 @@
+#Dicionarios e manipulação com laço
 dado = {"via A": 12, "via B": 8, "via C": 3}
 def ajusta_tempo(dado_dados):
     tempo_calc ={}

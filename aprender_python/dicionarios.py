@@ -1,3 +1,4 @@
+#Dicionarios
 tempos = {
     "via A": 10,
     "via B": 20,

@@ -1,3 +1,4 @@
+#Tipos de variaveis primitivas
 via = "Via A"
 tempo_verde = 30 
 tempo_amarelo = 5

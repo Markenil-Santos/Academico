@@ -1,3 +1,4 @@
+#Uso de logica de controle
 tempos = {
     "via A": 10,
     "via B": 20,
